@@ -1,0 +1,10 @@
+C:\Users\Matura_1\source\repos\Horner\Horner\bin\Debug\Horner.exe.config
+C:\Users\Matura_1\source\repos\Horner\Horner\bin\Debug\Horner.exe
+C:\Users\Matura_1\source\repos\Horner\Horner\bin\Debug\Horner.pdb
+C:\Users\Matura_1\source\repos\Horner\Horner\obj\Debug\Horner.csproj.AssemblyReference.cache
+C:\Users\Matura_1\source\repos\Horner\Horner\obj\Debug\Horner.Form1.resources
+C:\Users\Matura_1\source\repos\Horner\Horner\obj\Debug\Horner.Properties.Resources.resources
+C:\Users\Matura_1\source\repos\Horner\Horner\obj\Debug\Horner.csproj.GenerateResource.cache
+C:\Users\Matura_1\source\repos\Horner\Horner\obj\Debug\Horner.csproj.CoreCompileInputs.cache
+C:\Users\Matura_1\source\repos\Horner\Horner\obj\Debug\Horner.exe
+C:\Users\Matura_1\source\repos\Horner\Horner\obj\Debug\Horner.pdb
