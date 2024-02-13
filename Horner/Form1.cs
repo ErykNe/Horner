@@ -38,11 +38,15 @@ namespace Horner
                     degreePower--;
                     continue;
                 }
-                else if (degreePower == 0)
+                else if (degreePower == 0 && coeficcients[i] == 1)
                 {
                     equation += coeficcients[i];
                     break;
-                } 
+                }
+                else if (degreePower == 0)
+                {
+                    break;
+                }
                 else
                 {
                     equation += "x^" + degreePower + "+";
